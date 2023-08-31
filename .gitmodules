@@ -341,3 +341,12 @@
 [submodule "lib/certificates"]
 	path = lib/certificates
 	url = https://github.com/adafruit/certificates
+[submodule "frozen/Adafruit_CircuitPython_LED_Animation"]
+	path = frozen/Adafruit_CircuitPython_LED_Animation
+	url = https://github.com/adafruit/Adafruit_CircuitPython_LED_Animation.git
+[submodule "frozen/Adafruit_CircuitPython_Pixel_Framebuf"]
+	path = frozen/Adafruit_CircuitPython_Pixel_Framebuf
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Pixel_Framebuf.git
+[submodule "frozen/Adafruit_CircuitPython_framebuf"]
+	path = frozen/Adafruit_CircuitPython_framebuf
+	url = https://github.com/adafruit/Adafruit_CircuitPython_framebuf.git
