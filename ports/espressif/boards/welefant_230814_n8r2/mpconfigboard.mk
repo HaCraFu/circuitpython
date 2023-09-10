@@ -19,3 +19,4 @@ FROZEN_MPY_DIRS += $(TOP)/frozen/Adafruit_CircuitPython_LED_Animation
 FROZEN_MPY_DIRS += $(TOP)/frozen/Adafruit_CircuitPython_framebuf
 FROZEN_MPY_DIRS += $(TOP)/frozen/Adafruit_CircuitPython_Pixel_Framebuf
 FROZEN_MPY_DIRS += $(TOP)/frozen/Adafruit_CircuitPython_SimpleMath
+FROZEN_MPY_DIRS += $(TOP)/frozen/Adafruit_CircuitPython_Ticks

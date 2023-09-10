@@ -350,3 +350,6 @@
 [submodule "frozen/Adafruit_CircuitPython_framebuf"]
 	path = frozen/Adafruit_CircuitPython_framebuf
 	url = https://github.com/adafruit/Adafruit_CircuitPython_framebuf.git
+[submodule "ports/espressif/frozen/Adafruit_CircuitPython_Ticks"]
+	path = ports/espressif/frozen/Adafruit_CircuitPython_Ticks
+	url = https://github.com/adafruit/Adafruit_CircuitPython_Ticks.git
