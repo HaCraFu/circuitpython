@@ -7,7 +7,7 @@ IDF_TARGET = esp32s3
 
 CIRCUITPY_ESP_FLASH_MODE = dio
 CIRCUITPY_ESP_FLASH_FREQ = 80m
-CIRCUITPY_ESP_FLASH_SIZE = 8MB
+CIRCUITPY_ESP_FLASH_SIZE = 16MB
 #CIRCUITPY_AUDIOBUSIO_PDMIN = 1
 
 CIRCUITPY_ESPCAMERA = 0
@@ -20,3 +20,4 @@ FROZEN_MPY_DIRS += $(TOP)/frozen/Adafruit_CircuitPython_framebuf
 FROZEN_MPY_DIRS += $(TOP)/frozen/Adafruit_CircuitPython_Pixel_Framebuf
 FROZEN_MPY_DIRS += $(TOP)/frozen/Adafruit_CircuitPython_SimpleMath
 FROZEN_MPY_DIRS += $(TOP)/frozen/Adafruit_CircuitPython_Ticks
+FROZEN_MPY_DIRS += $(TOP)/frozen/Adafruit_CircuitPython_Requests
