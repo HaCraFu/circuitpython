@@ -418,6 +418,9 @@
 [submodule "frozen/Adafruit_CircuitPython_OPT4048"]
 	path = frozen/Adafruit_CircuitPython_OPT4048
 	url = https://github.com/adafruit/Adafruit_CircuitPython_OPT4048.git
+[submodule "frozen/HaCraFu_CircuitPython_Welefant"]
+	path = frozen/HaCraFu_CircuitPython_Welefant
+	url = https://github.com/HaCraFu/HaCraFu_CircuitPython_Welefant.git
 [submodule "frozen/CircuitPython_edupico2_paj7620"]
 	path = frozen/CircuitPython_edupico2_paj7620
 	url = https://github.com/CytronTechnologies/CircuitPython_edupico2_paj7620.git
