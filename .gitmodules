@@ -411,3 +411,6 @@
 [submodule "ports/analog/msdk"]
 	path = ports/analog/msdk
 	url = https://github.com/analogdevicesinc/msdk.git
+[submodule "frozen/HaCraFu_CircuitPython_Welefant"]
+	path = frozen/HaCraFu_CircuitPython_Welefant
+	url = https://github.com/HaCraFu/HaCraFu_CircuitPython_Welefant.git
