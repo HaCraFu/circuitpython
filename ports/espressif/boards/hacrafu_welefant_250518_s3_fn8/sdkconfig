@@ -1,0 +1,2 @@
+
+CONFIG_LWIP_LOCAL_HOSTNAME="espressif-esp32s3"
